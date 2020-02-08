@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.393" height="45.475" viewBox="0 0 82.393 45.475">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="82.393" height="45.475" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="64.647" height="9.032" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="hamburger" clip-path="url(#clip-path)">
+    <g id="Group_23" data-name="Group 23" clip-path="url(#clip-path)">
+      <g id="Group_17" data-name="Group 17">
+        <g id="Group_16" data-name="Group 16" clip-path="url(#clip-path)">
+          <g id="Group_15" data-name="Group 15" transform="translate(17.746)" opacity="0.56">
+            <g id="Group_14" data-name="Group 14">
+              <g id="Group_13" data-name="Group 13" clip-path="url(#clip-path-4)">
+                <rect id="Rectangle_5" data-name="Rectangle 5" width="64.647" height="9.032" transform="translate(-0.001)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="64.647" height="9.032" transform="translate(0 18.221)"/>
+      <g id="Group_22" data-name="Group 22">
+        <g id="Group_21" data-name="Group 21" clip-path="url(#clip-path)">
+          <g id="Group_20" data-name="Group 20" transform="translate(17.746 36.443)" opacity="0.56">
+            <g id="Group_19" data-name="Group 19">
+              <g id="Group_18" data-name="Group 18" clip-path="url(#clip-path-4)">
+                <rect id="Rectangle_9" data-name="Rectangle 9" width="64.647" height="9.031" transform="translate(-0.001 0)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

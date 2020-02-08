@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.957" height="34.347" viewBox="0 0 15.957 34.347">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="15.957" height="34.347" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="15.957" height="34.347" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Group_14" data-name="Group 14" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+      <path id="Path_12" data-name="Path 12" d="M3.516,17.309V33.914a.432.432,0,0,0,.432.433h6.167a.432.432,0,0,0,.432-.433V17.038h4.471a.432.432,0,0,0,.431-.4l.43-5.085a.432.432,0,0,0-.431-.469h-4.9V7.481A1.531,1.531,0,0,1,12.079,5.95h3.445a.432.432,0,0,0,.432-.433V.432A.433.433,0,0,0,15.524,0H9.7A6.187,6.187,0,0,0,3.516,6.186v4.9H.432A.434.434,0,0,0,0,11.521v5.085a.434.434,0,0,0,.433.432H3.516Z" fill-rule="evenodd"/>
+      <line id="Line_1" data-name="Line 1" x1="14.243" transform="translate(54.554 32.008)" fill="#333033"/>
+    </g>
+  </g>
+</svg>
